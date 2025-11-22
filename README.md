@@ -76,6 +76,8 @@ plt.ylabel('Frequency (Hz)')
 plt.tight_layout()
 plt.show()
 ```
+# __Tabulation__:
+<img width="1169" height="1280" alt="image" src="https://github.com/user-attachments/assets/943f5d15-2818-4341-88ec-30862f177aa9" />
 
 # __Output:__
 <img width="1097" height="820" alt="Screenshot 2025-11-17 205034" src="https://github.com/user-attachments/assets/105ad0cf-799a-49a8-8c1b-e3d4e6ad3541" />
